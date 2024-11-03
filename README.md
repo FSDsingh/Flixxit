@@ -96,16 +96,10 @@ To run this project, you will need to add the following environment variables to
 `TMDB_KEY`
 
 `RAZORPAY_SECRET_KEY`
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 
 
 ## Authors
 
 - [@omidhokate2002](https://github.com/omidhokate2002)
 
-  
-## Contributors
-- Vishnu Divakaran ([@vishnumd91](https://github.com/vishnumd91)): Razorpay Integration
+
